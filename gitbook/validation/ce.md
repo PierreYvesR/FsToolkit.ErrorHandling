@@ -6,7 +6,7 @@ The `Validation` type is defined as:
 
 ```fsharp
 type Validation<'a,'err> = Result<'a, 'err list>
-
+```
 
 This CE can take advantage of the [and! operator](https://github.com/fsharp/fslang-suggestions/issues/579) to join multiple error results into a list.
 

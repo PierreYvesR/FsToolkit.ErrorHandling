@@ -98,5 +98,6 @@
   * [map3](validation/map3.md)
   * [apply](validation/apply.md)
   * [ofResult](validation/ofResult.md)
+  * [Computation Expression](validation/ce.md)
   * [Operators](validation/operators.md)
   * [Result.tryCreate](validation/tryCreate.md)
